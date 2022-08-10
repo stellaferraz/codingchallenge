@@ -1,0 +1,5 @@
+Time spent on challenge: 4 hours
+What I would do next: 
+fix the right guesses list to be displayied sorted by the order of the random word to be guessed
+make sure that any other answer in the inputs are covered to back to input
+clean code (for example put the print staments of count of guesses outside the for loop, so we would only have it once in the program) 
